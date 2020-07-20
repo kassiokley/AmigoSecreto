@@ -1,7 +1,12 @@
 Amigo Secreto - Loopis
-Projeto
+
+Projeto:
+
+OBS: ter ou instalar o sqlite3 no sistema
 
 #Backend -> typescript
+
+#Database -> sqlite3
 
 #Frontend -> react
 
@@ -14,6 +19,10 @@ npm install
 Rodar o server
 
 npm rum dev
+
+Rodar as migrations
+
+knex:migrate  (OBS: cria o banco de dados e a tabela)
 
 Server:
 
