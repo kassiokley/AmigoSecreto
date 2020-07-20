@@ -18,7 +18,7 @@ npm install
 
 Rodar o server
 
-npm rum dev
+npm rum dev  (OBS: porta 3333)
 
 Rodar as migrations
 
@@ -44,7 +44,7 @@ npm install
 
 Rodar o server
 
-npm start
+npm start (OBS: porta 3000)
 
 Web:
 
