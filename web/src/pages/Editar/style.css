@@ -1,0 +1,44 @@
+#page-editar-participantes {
+  height: 100vh;
+}
+
+#page-editar-participantes .content {
+  width: 100%;
+  height: 100%;
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 0 30px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#page-editar-participantes .content header {
+  margin:  49px 0 0;
+}
+
+#page-editar-participantes .content form {
+  margin: 129px 0 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#page-editar-participantes .content form p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  margin-bottom: 10px;
+}
+
+#page-editar-participantes .content form input {
+  margin-bottom: 20px;
+}
+
+#page-editar-participantes .content button {
+  margin-top: 40px;
+}

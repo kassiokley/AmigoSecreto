@@ -1,0 +1,46 @@
+#alert {
+  height: 100vh;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.75);
+
+  display: flex;
+  justify-content: center;
+}
+
+#alert .content {
+  width: 600px;
+  height: 300px;
+  margin: auto;
+
+  background-color: #FFFFFF;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#alert .content h1 {
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 700;
+  font-style: normal;
+
+  margin-top: 20px;
+}
+
+#alert .content strong {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  font-style: normal;
+
+  margin-top: 80px;
+}
+
+#alert .content button {
+  width: 166px;
+  height: 55.33px;
+  border-radius: 2.76667px;
+
+  margin-top: 70px;
+}
